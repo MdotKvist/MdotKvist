@@ -1,6 +1,6 @@
 -  Hi, I’m @MdotKvist AKA. Kvist.
 -  I’m currently Studying as a Programmer at Mercantec in Viborg Denmark. 
--  When i finish projects, i will upload the files in a repositori here for y'all to look at and get inspired.
+-  When i finish projects, i will upload the files in a repositories here for y'all to look at and get inspired.
 -  I'm gonna use this as some kind of portfolio for my projects! 
 
 
