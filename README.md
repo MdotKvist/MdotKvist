@@ -56,13 +56,36 @@ eksperimenter og hobbyprojekter.
 
 ## 📌 Udvalgte projekter
 
-| Projekt | Teknologier | Beskrivelse |
-|-------|------------|------------|
-| **C2 Matches Bot** | JavaScript, API, Automation | Bot der automatiserer match-håndtering og datahentning via eksterne services |
-| **Angular projekter** | Angular, TypeScript | Frontend-apps med komponent-struktur |
-| **CakePHP projekter** | CakePHP, MySQL | Login, sessioner, databaser & API |
-| **Lager / warehouse system** | PHP, MySQL | Lokations- og lagerstyring |
-| **Spil / engine-eksperimenter** | Java / JS | Fokus på engine-tænkning frem for frameworks |
+### 🤖 C2 Matches Bot
+- JavaScript · API · Automation
+- Bot der automatiserer match-håndtering og datahentning
+- 🔗 https://github.com/MdotKvist/C2-Matches-Bot
+
+### 📖 LifeStory
+- Angular · CakePHP · MySQL
+- Full-stack webapp med tidslinje og interaktive cards
+- 🔗 https://github.com/MdotKvist/lifestory
+
+### 🌐 Angular projekter
+- Angular · TypeScript
+- Frontend-apps med komponentbaseret struktur
+- 🔗 https://github.com/MdotKvist?tab=repositories&q=angular
+
+### ⚙️ CakePHP projekter
+- CakePHP · PHP · MySQL
+- Login, sessioner, databaser og API’er
+- 🔗 https://github.com/MdotKvist?tab=repositories&q=cakephp
+
+### 📦 Lager / warehouse system
+- PHP · MySQL
+- Lokations- og lagerstyring
+- 🔗 https://github.com/MdotKvist
+
+### 🎮 Spil / engine-eksperimenter
+- Java · JavaScript
+- Fokus på engine-tænkning frem for færdige frameworks
+- 🔗 https://github.com/MdotKvist
+
 
 > 🔭 Jeg uploader løbende nye projekter og eksperimenter.
 
