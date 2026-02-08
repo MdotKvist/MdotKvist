@@ -69,23 +69,18 @@ eksperimenter og hobbyprojekter.
 ### 🌐 Angular projekter
 - Angular · TypeScript
 - Frontend-apps med komponentbaseret struktur
-- 🔗 https://github.com/MdotKvist?tab=repositories&q=angular
 
 ### ⚙️ CakePHP projekter
 - CakePHP · PHP · MySQL
 - Login, sessioner, databaser og API’er
-- 🔗 https://github.com/MdotKvist?tab=repositories&q=cakephp
 
 ### 📦 Lager / warehouse system
 - PHP · MySQL
 - Lokations- og lagerstyring
-- 🔗 https://github.com/MdotKvist
 
 ### 🎮 Spil / engine-eksperimenter
 - Java · JavaScript
 - Fokus på engine-tænkning frem for færdige frameworks
-- 🔗 https://github.com/MdotKvist
-
 
 > 🔭 Jeg uploader løbende nye projekter og eksperimenter.
 
