@@ -79,7 +79,7 @@ eksperimenter og hobbyprojekter.
 ---
 
 ### 📖 LifeStory
-🔗 https://github.com/MdotKvist/lifestory
+🔗 https://github.com/Aarhus-tech-project/10weekproject-MdotKvist
 
 - Full-stack webapplikation
 - Frontend i **Angular**
