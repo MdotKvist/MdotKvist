@@ -119,7 +119,7 @@ eksperimenter og hobbyprojekter.
 
 - 💬 Åben for samarbejde, feedback og praktikmuligheder  
 - 🔗 GitHub: https://github.com/MdotKvist  
-- 🔗 LinkedIn: *(kan tilføjes)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/mikkel-kvist-0661b695/
 
 ---
 
