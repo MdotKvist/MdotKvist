@@ -56,7 +56,7 @@ eksperimenter og hobbyprojekter.
 
 ## 📌 Udvalgte projekter
 
-### 🤖 C2 Matches Bot
+### 🤖 C2 Matches Discord App/Bot
 - JavaScript · API · Automation
 - Bot der automatiserer match-håndtering og datahentning
 - 🔗 https://github.com/MdotKvist/C2-Matches-Bot
@@ -86,7 +86,7 @@ eksperimenter og hobbyprojekter.
 
 ## 🌟 Projekt Highlights
 
-### 🤖 C2 Matches Bot
+### 🤖 C2 Matches Discord App/Bot
 🔗 https://github.com/MdotKvist/C2-Matches-Bot
 
 - Automation af match-håndtering
